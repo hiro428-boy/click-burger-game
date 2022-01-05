@@ -1,0 +1,46 @@
+.bg-blue {
+  background-color: rgb(61, 81, 121);
+}
+h2 {
+  color: #fff;
+}
+.title {
+  color: #000;
+}
+p {
+  margin: 0 !important;
+  color: #fff;
+  font-weight: 600;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.burgerHover {
+  cursor: pointer;
+}
+.burgerHover:hover {
+  opacity: 0.8;
+}
+.itemsList {
+  cursor: pointer;
+}
+.itemsList:hover {
+  border: 2px solid #39a1f3;
+}
+.rem120 {
+  font-size: 1.2rem;
+}
+.rem14 {
+  font-size: 1.4rem;
+}
+.text-green {
+  color: #28a745;
+}
+.flowHeight {
+  height: 80%;
+}
+.height {
+  height: 80%;
+}
